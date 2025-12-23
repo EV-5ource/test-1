@@ -1,0 +1,8 @@
+{
+  "name": "Enriched Conversion",
+  "description": "A high-performance agency landing page for AI automation services, featuring intelligent lead generation, sales follow-up systems, and automated client onboarding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
